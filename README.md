@@ -1,15 +1,71 @@
 # 👋 Hi, I’m Madhur Tiwari (@mtiwari479)
 
-- 👀 I’m passionate about **mobile application development** and **MERN STACK**.
-- 🌱 Currently learning **MERN STACK** to strengthen my problem-solving skills.
-- 💻 Exploring technologies like **API Integration**, **React.js**, **Firebase**, and **MongoDB**.
-- 🚀 Currently building **[MyRefrence](https://myrefrence.com)** – a cross-platform app that connects job seekers and students with referrers from industry and academia.
-- 🤝 Looking to collaborate on innovative **cross-platform applications** and **startup ideas**.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mtiwari479) — always happy to connect and collaborate!
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m building a voice-powered calculator app called **Vocalc** — calculate faster, hands-free, and in Hindi too!
+🚀 **Full-Stack Developer | MERN Stack | Mobile App Developer**
 
-<!---
-mtiwari479/mtiwari479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👨‍💻 About Me
+
+* 💡 Passionate about building **scalable products** and solving real-world problems
+* 🌱 Currently focused on **MERN Stack + AI-powered applications**
+* 🧠 Strong interest in **system design, API architecture, and product thinking**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js, HTML, CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB, Firebase
+* **Languages:** JavaScript, TypeScript
+* **Tools:** VS Code, Git, GitHub, Vercel
+
+---
+
+## 🚀 Projects
+
+### 🔊 VOCALC (Android App)
+
+* 🎙️ **Multilingual voice-enabled calculator** for hands-free usage
+* 🌐 Supports **Hindi + English voice commands**
+* 📱 Built for accessibility and fast calculations
+* 🏛️ **Copyrighted by Government of India**
+
+---
+
+### 🤝 MyRefrence
+
+🔗 https://myrefrence.com
+
+* 🤖 AI-powered platform connecting **job seekers & students with referrers**
+* ⚡ Built using **MERN + TypeScript + OpenAI APIs**
+* 🌍 Focused on **real-world daily utility and networking**
+
+---
+
+### 🏠 StayCraft *(In Progress)*
+
+* 🏢 Standardized **micro-living rental platform**
+* 🛠️ Built using **MERN Stack**
+* 🎯 Focus on **scalable rental ecosystem & user experience**
+
+---
+
+## ⚙️ Development Workflow
+
+* 💻 Development: VS Code
+* 🔄 Version Control: Git & GitHub
+* 🚀 Deployment: Vercel
+
+---
+
+## 🤝 Let’s Collaborate
+
+* 🚀 Open to building **startup ideas & real-world products**
+* 🤝 Interested in **AI + SaaS + platform-based solutions**
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/mtiwari479
